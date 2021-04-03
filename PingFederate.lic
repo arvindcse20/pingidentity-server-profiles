@@ -1,0 +1,14 @@
+ID=00133001
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=10.2
+EnforcementType=3
+Tier=Subscription
+IssueDate=2021-02-04
+ExpirationDate=2023-05-31
+DeploymentMethod=Traditional
+Organization=ABN AMRO (NL)
+SignCode=FF0F
+Signature=302C021415969FE2DDDFB0B2A8F15DAE1D7BBD4FF0AABA1702146C04DB3D8A57D2274C4A85BC9A4E1EF747D814F5
